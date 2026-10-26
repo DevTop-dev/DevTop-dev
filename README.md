@@ -4,26 +4,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&section=header&text=DevTop&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
-<h3 align="center">💻 Developer | Web Development | Digital Projects</h3>
+<h3 align="center">💻 Web Developer | HTML Enthusiast | Node.js Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Reality;Exploring+New+Technologies;Creating+Modern+Web+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Reality;Creating+Modern+Websites;Developing+With+Node.js;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-👋 Hi! I'm **DevTop**, a developer who enjoys creating modern websites, useful tools, scripts, and creative digital projects.
+👋 Hi! I'm **DevTop**, a developer passionate about web development, modern websites, and creative digital projects.
 
-- 🚀 I enjoy building websites and experimenting with new technologies.
-- 🌱 I'm constantly learning and improving my coding skills.
-- 🌐 I'm interested in web development, automation, and backend technologies.
-- 🤖 I'm exploring AI tools, Discord bots, and creative software projects.
-- 🛠️ I love turning ideas into functional digital experiences.
-- 🔍 I'm always looking for new technologies and interesting projects.
-- 🤝 I'm open to collaboration and connecting with other developers.
-- 📂 Check out my repositories to see what I'm working on!
+- 🌐 I work extensively with **HTML** to build and structure websites.
+- ⚙️ I use **Node.js** for development, scripts, and backend projects.
+- 🎨 I enjoy creating clean, modern, and responsive web experiences.
+- 🚀 I love turning ideas into real, functional projects.
+- 🤖 I'm interested in automation, APIs, and Discord bots.
+- 🌱 I'm always learning new technologies and improving my skills.
+- 🛠️ I enjoy experimenting with tools, frameworks, and creative solutions.
+- 🤝 I'm open to collaboration and exciting new projects.
 
 ---
 
@@ -45,8 +45,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
